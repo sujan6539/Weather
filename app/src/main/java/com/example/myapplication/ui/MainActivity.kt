@@ -18,4 +18,8 @@ class MainActivity : AppCompatActivity() {
         ).commit()
     }
 
+    fun testing(){
+        println("This is just a test")
+    }
+
 }
